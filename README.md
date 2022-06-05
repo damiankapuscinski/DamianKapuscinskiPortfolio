@@ -1,2 +1,2 @@
-# DamianKapuscinskiPortfolio
+# Damian Kapuscinski Portfolio
 Portfolio Tester
