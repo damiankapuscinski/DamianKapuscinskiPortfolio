@@ -32,7 +32,9 @@ Certificate of Achievement
 
 # Courses:
 COLT 1/2022 – Cherry-it.pl
+
 Academia Utest.com
+
 Udemy
 # Books:
 R. Smilgin – Zawód tester
