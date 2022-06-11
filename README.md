@@ -1,5 +1,5 @@
 # Damian Kapuscinski Portfolio
-Portfolio Tester
+QE Tester
 # About me:
 Nazywam się Damian Kapuściński pochodze i mieszkam w Piotrkowie Trybunalskim. Jestem osobą ambitną i entuzjastyczną, nie boję się nowych wyzwań, chętnie się rozwijam i zawsze dążę do osiągnięcia swoich celów. Obecnie chciałbym zmienić branżę i podbić świat IT, w tym celu stale się dokształcam. Wierzę, że moje umiejętności i chęć dalszego zdobywania wiedzy w tym kierunku dowodzą, że jestem idealnym kandydatem na stanowisko manualnego testera oprogramowania. Dodatkowym atutem jest szerokie spektrum umiejętności twardych oraz miękkich zdobytych w moim bogatym doświadczeniu zawodowym w innych branżach niż IT. W wolnych chwilach oprócz zgłębiania wiedzy testerskiej lubię tworzyć muzykę elektroniczną przy zastosowaniu instrumentów analogowych, cyfrowoanalogowych i modularnych.
 # Tools:
