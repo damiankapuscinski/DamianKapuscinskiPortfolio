@@ -14,14 +14,22 @@ TestLink,
 Software testing,
 Creating test cases,
 Reporting bug
-Certyficates:
+# Certyficates:
+
 ISTQB podczas nauki
+
 Certificate of Achievement
+
 #6292 Installing and Configuring Windows 7 Client
+
 #6425 Configuring Windows Server 2008 Active Directory Domain Services
+
 #6292 Installing and Configuring Windows 7 Client
+
 #5115 Installing and Configuring the Windows Vista Operating System
+
 #5116 Configuring Windows Vista Mobile Computing and Applications
+
 # Courses:
 COLT 1/2022 – Cherry-it.pl
 Academia Utest.com
