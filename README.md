@@ -6,30 +6,20 @@ Nazywam się Damian Kapuściński pochodze i mieszkam w Piotrkowie Trybunalskim.
 Jira
 
 Chrome Dev Tools
-
-Picpik
-
-Sharex
+* Picpik
+* Sharex
 
 TestLink,
 # Tech skills:
-Bug Reports
-
-Test Reports
-
-Test Cases
-
-Test Scenarios
-
-Software testing,
-
-Creating test cases,
-
-Reporting bug
+* Bug Reports
+* Test Reports
+* Test Cases
+* Test Scenarios
+* Software testing,
+* Creating test cases,
+* Reporting bug
 # Certyficates:
-
-ISTQB podczas nauki
-
+*ISTQB podczas nauki
 Certificate of Achievement
 
 #6292 Installing and Configuring Windows 7 Client
@@ -43,9 +33,8 @@ Certificate of Achievement
 #5116 Configuring Windows Vista Mobile Computing and Applications
 
 # Courses:
-COLT 1/2022 – Cherry-it.pl
-
-Academia Utest.com
+* COLT 1/2022 – Cherry-it.pl
+*Academia Utest.com
 
 Udemy
 # Books:
