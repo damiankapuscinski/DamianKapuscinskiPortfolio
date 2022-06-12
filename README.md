@@ -5,7 +5,7 @@ Nazywam się Damian Kapuściński pochodze i mieszkam w Piotrkowie Trybunalskim.
 # Tools:
 Jira
 
-https://github.com/damiankapuscinski/DamianKapuscinskiPortfolio/blob/main/testplik.xlsx
+Chrome Dev Tools
 
 Picpik
 
@@ -13,8 +13,18 @@ Sharex
 
 TestLink,
 # Tech skills:
+Bug Reports
+
+Test Reports
+
+Test Cases
+
+Test Scenarios
+
 Software testing,
+
 Creating test cases,
+
 Reporting bug
 # Certyficates:
 
