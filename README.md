@@ -50,7 +50,7 @@ Cherry-it.pl
 Testerzy.pl
 Testuj.pl
 # My test case examples:
-# My bug raports:
+# My Test Documentation:
 # My projects:
 Let’s Dance – CRM and app IOS, Android (Ist place in KRK Pitch Contest)
 
