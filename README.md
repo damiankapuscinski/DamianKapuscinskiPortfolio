@@ -52,6 +52,7 @@ R. Smilgin – Zawód tester
 * Cherry-it
 # Webinars:
 # Recommended blogs:
+* guru99.com
 * Cherry-it.pl
 * Testerzy.pl
 * Testuj.pl
