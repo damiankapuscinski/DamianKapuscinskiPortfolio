@@ -60,5 +60,5 @@ R. Smilgin – Zawód tester
 * soon
 # My projects:
 
-# My freetime
+# My free time
 * soon
