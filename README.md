@@ -51,19 +51,11 @@ R. Smilgin – Zawód tester
 * Testowanie oprogramowania
 * Cherry-it
 # Webinars:
-Recommended blogs:
-Cherry-it.pl
-Testerzy.pl
-Testuj.pl
-# My test case examples:
-* Let’s Dance – CRM and app IOS, Android (Ist place in KRK Pitch Contest) - Testowanie aplikacji mobilnych na iOS, Android oraz Systemu CRM
-Wykonywanie testów funkcjonalnych, regresyjnych, testów dymnych,
-retestów, rest API, pisane planów testowych, scenariuszy i zgłaszanie
-błędów. Zapoznanie się z głównymi narzędziami do pracy zespołowej oraz
-wspomagających pracę testera. Ścisła współpraca z team liderem oraz
-resztą zespołu, zrozumienie pracy w zespole Scrumowym.
-* Utest.com – testing for companies such as: Revolut, Stradivarius, Avon (elite group of testers) - Regularne uczestniczenie w projektach utest.com testowanie aplikacji dla
-takich firm jak AVONE, REVOLUT, STRADIVARIUS
+* Recommended blogs:
+* Cherry-it.pl
+* Testerzy.pl
+* Testuj.pl
+
 # My Test Documentation:
 * soon
 # My projects:
