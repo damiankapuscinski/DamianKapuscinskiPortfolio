@@ -58,7 +58,7 @@ R. Smilgin – Zawód tester
 
 # My Test Documentation:
 * soon
-* # My test case examples:
+# My test case examples:
 # My projects:
 
 # My free time
