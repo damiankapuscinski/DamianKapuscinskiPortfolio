@@ -59,13 +59,6 @@ R. Smilgin – Zawód tester
 # My Test Documentation:
 * soon
 # My projects:
-* Let’s Dance – CRM and app IOS, Android (Ist place in KRK Pitch Contest) - Testowanie aplikacji mobilnych na iOS, Android oraz Systemu CRM
-Wykonywanie testów funkcjonalnych, regresyjnych, testów dymnych,
-retestów, rest API, pisane planów testowych, scenariuszy i zgłaszanie
-błędów. Zapoznanie się z głównymi narzędziami do pracy zespołowej oraz
-wspomagających pracę testera. Ścisła współpraca z team liderem oraz
-resztą zespołu, zrozumienie pracy w zespole Scrumowym.
-* Utest.com – testing for companies such as: Revolut, Stradivarius, Avon (elite group of testers) - Regularne uczestniczenie w projektach utest.com testowanie aplikacji dla
-takich firm jak AVONE, REVOLUT, STRADIVARIUS
+
 # My freetime
 * soon
