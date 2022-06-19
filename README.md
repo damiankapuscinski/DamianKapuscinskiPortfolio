@@ -60,7 +60,7 @@ R. Smilgin – Zawód tester
 
 # My test case examples:
 [Test case](https://docs.google.com/spreadsheets/d/1DkrPrQ5evpAatx914O-Ka2yaJ0NfOzP0/edit#gid=1644853001]
-# My projects:
+# My projects: 
 
 # My free time
 * soon
