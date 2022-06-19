@@ -54,7 +54,7 @@ R. Smilgin – Zawód tester
 # Recommended blogs:
 * guru99.com
 * Cherry-it.pl
-* Testerzy.pl
+* [testerzy.pl](https://testerzy.pl/)
 * Testuj.pl
 
 # My Test Documentation:
