@@ -17,6 +17,7 @@ takich firm jak AVONE, REVOLUT, STRADIVARIUS
 * Picpik,
 * Sharex,
 * TestLink,
+* VSC 
 * Postman,
 * Slack,
 # Tech skills:
