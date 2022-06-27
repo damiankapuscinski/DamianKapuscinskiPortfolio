@@ -27,7 +27,7 @@ takich firm jak AVONE, REVOLUT, STRADIVARIUS
 * Rest Api - pozdstawy,
 * HTML, CSS - podstawy,
 * Trello
-* GIT, Githab
+* GIT, Githab - podstawy 
 * MS Office
 # Certyficates:
 *ISTQB podczas nauki
