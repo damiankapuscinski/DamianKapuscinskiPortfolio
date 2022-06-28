@@ -62,6 +62,5 @@ R. Smilgin – Zawód tester
 # My test case examples:
 [LINK to test cases](https://docs.google.com/spreadsheets/d/1DkrPrQ5evpAatx914O-Ka2yaJ0NfOzP0/edit#gid=1644853001)
 # My projects: 
-
 # My free time
-* soon
+moja strona napisana w VSC <a href="https://damiankapuscinski.github.io/"> FRIDAY NITE CREW</a>
