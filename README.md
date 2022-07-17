@@ -1,5 +1,5 @@
 # Damian Kapuscinski Portfolio
-QE Tester
+QA Tester
 # About me:
 Nazywam się Damian Kapuściński pochodze i mieszkam w Piotrkowie Trybunalskim. Jestem osobą ambitną i entuzjastyczną. Nie boję się nowych wyzwań, chętnie się rozwijam i zawsze dążę do osiągnięcia swoich celów. Obecnie chciałbym zmienić branżę i podbić świat IT, w tym celu stale się dokształcam. Do moich testerskich doświadczeń mogę zaliczyć czynny udział w sukcesie startupu aplikacji android, IOS Let’s Dance oraz jej CRM połączonego systemu zarządzania marketplace (I miejsce w KRK Pitch Contest), regularny udział w testach na platformie crowdtestingowej utest.com, testowałem między innymi dla takich firm jak Revolut, Stradivarius, Avon gdzie zostałem zakwalifikowany do grupy stałych testerów „Ninja”. Wierzę, że moje umiejętności i chęć dalszego zdobywania wiedzy w tym kierunku dowodzą, że jestem idealnym kandydatem na stanowisko manualnego testera oprogramowania. Dodatkowym atutem jest szerokie spektrum umiejętności twardych oraz miękkich zdobytych w moim bogatym doświadczeniu zawodowym w innych branżach niż IT. W wolnych chwilach oprócz zgłębiania wiedzy testerskiej lubię tworzyć muzykę elektroniczną przy zastosowaniu instrumentów analogowych, cyfrowoanalogowych i modularnych.  
 # My tester experience:
