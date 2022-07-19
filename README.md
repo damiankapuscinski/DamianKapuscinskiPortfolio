@@ -63,4 +63,7 @@ R. Smilgin – Zawód tester
 [LINK to test cases](https://docs.google.com/spreadsheets/d/1DkrPrQ5evpAatx914O-Ka2yaJ0NfOzP0/edit#gid=1644853001)
 # My projects: 
 # My free time
-moja strona napisana w VSC <a href="https://damiankapuscinski.github.io/"> FRIDAY NITE CREW</a>
+* Moja strona napisana w VSC <a href="https://damiankapuscinski.github.io/"> FRIDAY NITE CREW</a>
+* Fotografia <a href="https://www.instagram.com/a.tra.music/"> INSTAGRAM</a>
+* Muzyka <a href="https://soundcloud.com/a-tramusic"> A.TRA SOUNDCLOUD</a>
+
