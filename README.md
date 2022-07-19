@@ -24,7 +24,7 @@ takich firm jak AVONE, REVOLUT, STRADIVARIUS
 * Testowanie aplikacji webowych i mobilnych, Android, iOS, Windows,
 * Raportowanie błędów, pisanie przypadków, scenariuszy, planów testowych,
 * Praca zespołowa, wielozadaniowość i dbałość o szczegóły,
-* Rest Api - pozdstawy,
+* Rest Api - podstawy,
 * HTML, CSS - podstawy,
 * Trello
 * GIT, Githab - podstawy 
